@@ -10,7 +10,7 @@ Ce projet consiste en une analyse complète d'un dataset de jeu Mario Bros conte
 
 ## 👨‍💻 Auteur
 
-- **ANTON NELCON Steve** - Développeur et Analyste de Données
+- **ANTON NELCON Steve** - Etudiant en Master 1 Informatique et Big Data
 
 ## 🎯 Objectifs du Projet
 
@@ -55,4 +55,3 @@ Le dataset contient **5000 entrées** avec **8 colonnes** :
 - **Tabulate** - Affichage formaté des tableaux
 - **Jupyter Notebook** - Environnement de développement
 
-## 📁 Structure du Projet
